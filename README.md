@@ -15,7 +15,7 @@ const sil = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: ["JavaScript", "HTML", "CSS", "React"],
-        backEnd: ["Java", "SpringBoot", "Hibernate", "Maven", C#],
+        backEnd: ["Java", "SpringBoot", "Hibernate", "Maven", "C#"],
         databases: ["MySql", "SQLServer"],
     }
 };
