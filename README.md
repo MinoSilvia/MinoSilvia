@@ -23,3 +23,5 @@ const sil = {
 
 <img src = "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width = "60"> <em> <b>Me encanta conectarme con diferentes personas, </b> así que si quieres saludar ,<b> ¡estaré feliz de conocerte más! </b> 😊 </em>
 
+---
+
