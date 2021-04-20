@@ -1,6 +1,6 @@
 <h2> Hola, bienvenid@ a mi Github! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RLDgnEBezlGfyc0Ol2/giphy.gif" width="230" height="230">
-<p><em>Analista de Sistemas <a href="http://www.unla.edu.ar/">Universidad Nacional de Lanus</a><img src="https://media.giphy.com/media/Qu0lTVGqkjzT2Y1Aic/giphy.gif" width="30">
+<em>Analista de Sistemas <a href="http://www.unla.edu.ar/">Universidad Nacional de Lanus</a><img src="https://media.giphy.com/media/Qu0lTVGqkjzT2Y1Aic/giphy.gif" width="30">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/silviamiño)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/silvi_mino)
